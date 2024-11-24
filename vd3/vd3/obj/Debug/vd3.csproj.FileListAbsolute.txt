@@ -1,0 +1,10 @@
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\vd3\vd3\bin\Debug\vd3.exe.config
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\vd3\vd3\bin\Debug\vd3.exe
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\vd3\vd3\bin\Debug\vd3.pdb
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\vd3\vd3\obj\Debug\vd3.csproj.AssemblyReference.cache
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\vd3\vd3\obj\Debug\vd3.Form1.resources
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\vd3\vd3\obj\Debug\vd3.Properties.Resources.resources
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\vd3\vd3\obj\Debug\vd3.csproj.GenerateResource.cache
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\vd3\vd3\obj\Debug\vd3.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\vd3\vd3\obj\Debug\vd3.exe
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\vd3\vd3\obj\Debug\vd3.pdb
